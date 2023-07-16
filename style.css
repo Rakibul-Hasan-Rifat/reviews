@@ -16,11 +16,15 @@ body {
 }
 
 article {
+    max-width: 720px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 720px;
+    margin-bottom: 25px;
+    padding-top: 16px;
+    background-color: #fff;
+    border-radius: 16px;
 }
 
 article>* {
