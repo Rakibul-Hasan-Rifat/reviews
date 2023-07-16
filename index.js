@@ -29,8 +29,6 @@ const reviews = [
     }
 ];
 
-console.log(reviews)
-
 const imgTag = document.querySelector('img');
 const nameTag = document.querySelector('h3');
 const jobTag = document.querySelector('h4');
